@@ -1,0 +1,226 @@
+2017-05-14 12:50:03 | logout : kajabukama@gmail.com logged out successfully 
+2017-05-14 12:50:36 | login : johari@gmail.com logged in successfully 
+2017-05-14 13:11:09 | Like Forum : johari@gmail.com likes forum topic with id : 6 
+2017-05-14 20:08:19 | login : michael@gmail.com logged in successfully 
+2017-05-14 20:09:37 | Password Change : michael B. kamugisha changed account password 
+2017-05-14 20:10:35 | logout : michael@gmail.com logged out successfully 
+2017-05-14 20:10:53 | login : michael@gmail.com logged in successfully 
+2017-05-14 20:17:37 | logout : michael@gmail.com logged out successfully 
+2017-05-14 21:06:09 | Delete : johari@gmail.com has deleted message with id : 7 
+2017-05-15 07:20:07 | logout : johari@gmail.com logged out successfully 
+2017-05-15 08:18:12 | login : johari@gmail.com logged in successfully 
+2017-05-15 08:39:21 | Citizen Signup : Yusuph H. Kajabukama registered successfully 
+2017-05-15 08:40:47 | Citizen Signup : Yusuph H. Kajabukama registered successfully 
+2017-05-15 08:40:47 | Account Signup : Yusuph H. Kajabukama created an account successfully 
+2017-05-15 08:43:37 | login : kajabukama@gmail.com logged in successfully 
+2017-05-15 08:48:39 | login : kajabukama@gmail.com logged in successfully 
+2017-05-15 08:48:57 | Password Change : Yusuph H. Kajabukama changed account password 
+2017-05-15 08:49:40 | Password Change : Yusuph H. Kajabukama changed account password 
+2017-05-15 08:55:46 | login : kajabukama@gmail.com logged in successfully 
+2017-05-15 08:55:54 | Password Change : Yusuph H. Kajabukama changed account password 
+2017-05-15 10:03:37 | logout : kajabukama@gmail.com logged out successfully 
+2017-05-15 10:04:26 | login : njelekela@gmail.com logged in successfully 
+2017-05-15 10:07:19 | login : kajabukama@gmail.com logged in successfully 
+2017-05-15 10:46:50 | Officer Account : Jones K. Njelekela created an officer account width id : 954302 
+2017-05-15 10:47:31 | Officer Account : Jones K. Njelekela created an officer account width id : 488753 
+2017-05-15 11:43:27 | Officer Account : Jones K. Njelekela created an officer account width id : 423270 
+2017-05-15 11:45:19 | login : amina@gmail.com logged in successfully 
+2017-05-15 12:03:47 | Officer Account : Jones K. Njelekela created an officer account width id : 422383 
+2017-05-15 12:04:57 | logout : amina@gmail.com logged out successfully 
+2017-05-15 12:09:05 | login : amina@gmail.com logged in successfully 
+2017-05-15 12:09:11 | logout : amina@gmail.com logged out successfully 
+2017-05-15 15:36:58 | logout : njelekela@gmail.com logged out successfully 
+2017-05-15 15:51:48 | login : njelekela@gmail.com logged in successfully 
+2017-05-15 16:30:00 | Delete Account : Jones K. Njelekela has deleted officer account with id : 423270 
+2017-05-15 16:38:36 | Suspend Account : Jones K. Njelekela suspended officer account with id : 422383 
+2017-05-15 16:50:13 | Delete Account : James J. Mbatia deleted officer account with id : 422383 
+2017-05-15 16:51:00 | Officer Account : James J. Mbatia created an officer account width id : 12089 
+2017-05-15 16:51:13 | Suspend Account : James J. Mbatia suspended officer account with id : 12089 
+2017-05-15 16:53:10 | logout :  logged out successfully 
+2017-05-15 16:53:56 | login : kajabukama@gmail.com logged in successfully 
+2017-05-15 16:54:14 | logout : kajabukama@gmail.com logged out successfully 
+2017-05-15 16:56:02 | login : admin@gmail.com logged in successfully 
+2017-05-15 16:56:11 | Suspend Account : Admin S. Admin suspended officer account with id : 12089 
+2017-05-15 17:23:03 | Suspend Account : Yusuph H. Kajabukama suspended officer account with id : 12089 
+2017-05-15 17:37:45 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:38:45 | Suspend Account : Yusuph H. Kajabukama suspended officer account with id : 12089 
+2017-05-15 17:38:49 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:38:59 | Suspend Account : Yusuph H. Kajabukama suspended officer account with id : 12089 
+2017-05-15 17:39:06 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:39:27 | Suspend Account : Yusuph H. Kajabukama suspended officer account with id : 12089 
+2017-05-15 17:39:35 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:41:05 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:41:08 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:41:11 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:41:14 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:41:16 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:41:19 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:42:00 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:42:05 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:42:08 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:42:53 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:43:03 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:43:47 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 17:43:49 | Activate Account : Yusuph H. Kajabukama activated officer account with id : 12089 
+2017-05-15 18:02:07 | Citizen Signup : Yusuph H. Kajabukama registered successfully 
+2017-05-15 18:02:07 | Account Signup : Yusuph H. Kajabukama created an account successfully 
+2017-05-15 18:04:21 | login : kajabukama@gmail.com logged in successfully 
+2017-05-15 18:12:42 | Show Forum : kajabukama@gmail.com has deleted forum with id : 1 
+2017-05-15 18:13:00 | login : njelekela@gmail.com logged in successfully 
+2017-05-15 18:18:42 | Officer Account : Jones K. Njelekela created an officer account width id : 477868 
+2017-05-15 18:19:07 | Officer Account : Jones K. Njelekela created an officer account width id : 838980 
+2017-05-15 18:21:27 | Officer Account : Jones K. Njelekela created an officer account width id : 68620 
+2017-05-15 18:23:58 | Password Change : Yusuph H. Kajabukama changed account password 
+2017-05-15 18:31:38 | logout : njelekela@gmail.com logged out successfully 
+2017-05-15 18:37:20 | login : jackiline@hotmail.com logged in successfully 
+2017-05-15 18:48:59 | Like Forum : kajabukama@gmail.com likes forum topic with id : 1 
+2017-05-15 18:51:57 | Like Forum : jackiline@hotmail.com likes forum topic with id : 1 
+2017-05-15 19:25:32 | Like Forum : kajabukama@gmail.com likes forum topic with id : 623339 
+2017-05-15 19:26:44 | Like Forum : jackiline@hotmail.com likes forum topic with id : 623339 
+2017-05-15 20:01:53 | Like Comment : kajabukama@gmail.com likes comment with id : 623339 
+2017-05-15 20:02:59 | Like Comment : kajabukama@gmail.com likes comment with id : 80832 
+2017-05-15 20:04:42 | Like Comment : jackiline@hotmail.com likes comment with id : 80832 
+2017-05-15 20:04:46 | Like Comment : jackiline@hotmail.com likes comment with id : 623339 
+2017-06-01 09:00:48 | Password Recovery : Yusuph H. Kajabukama requested password recovery 
+2017-06-01 09:22:03 | Password Recovery : Yusuph H. Kajabukama requested password recovery 
+2017-06-01 09:40:00 | Citizen Signup : Yusuph H. Kajabukama registered successfully 
+2017-06-01 09:40:00 | Account Signup : Yusuph H. Kajabukama created an account successfully 
+2017-06-01 09:41:25 | login : kajabukama@gmail.com logged in successfully 
+2017-06-01 09:42:47 | Password Change : Yusuph H. Kajabukama changed account password 
+2017-06-01 09:42:51 | logout : kajabukama@gmail.com logged out successfully 
+2017-06-01 09:43:19 | login : njelekela@gmail.com logged in successfully 
+2017-06-01 10:00:09 | logout : njelekela@gmail.com logged out successfully 
+2017-06-01 10:00:22 | login : kajabukama@gmail.com logged in successfully 
+2017-06-01 10:01:15 | Show Forum : kajabukama@gmail.com has deleted forum with id : 1 
+2017-06-01 10:01:39 | logout : kajabukama@gmail.com logged out successfully 
+2017-06-01 10:01:50 | login : kajabukama@gmail.com logged in successfully 
+2017-06-01 10:02:16 | Show Forum : kajabukama@gmail.com has deleted forum with id : 2 
+2017-06-01 10:03:25 | Like Comment : kajabukama@gmail.com likes comment with id : 510674 
+2017-06-01 10:03:59 | logout : kajabukama@gmail.com logged out successfully 
+2017-06-01 10:04:29 | login : njelekela@gmail.com logged in successfully 
+2017-06-01 10:05:00 | logout : njelekela@gmail.com logged out successfully 
+2017-06-01 10:05:30 | login : admin@gmail.com logged in successfully 
+2017-06-01 10:22:20 | Officer Account : Admin S. Admin created an officer account width id : 751796 
+2017-06-01 10:41:23 | logout : admin@gmail.com logged out successfully 
+2017-06-01 10:41:39 | login : njelekela@gmail.com logged in successfully 
+2017-06-01 10:44:03 | Officer Account : Jones K. Njelekela created an officer account width id : 808197 
+2017-06-01 10:48:09 | logout : njelekela@gmail.com logged out successfully 
+2017-06-01 10:48:46 | login : johari@gmail.com logged in successfully 
+2017-06-01 11:04:51 | logout : johari@gmail.com logged out successfully 
+2017-06-01 11:05:30 | login : johari@gmail.com logged in successfully 
+2017-06-01 11:05:43 | Password Change : Johari H. Kajabukama changed account password 
+2017-06-01 11:59:48 | logout : johari@gmail.com logged out successfully 
+2017-06-01 12:00:10 | login : njelekela@gmail.com logged in successfully 
+2017-06-01 12:00:17 | Delete Account : Jones K. Njelekela deleted officer account with id : 808197 
+2017-06-01 12:02:42 | Officer Account : Jones K. Njelekela created an officer account width id : 945201 
+2017-06-08 16:41:25 | Password Recovery : Johari H. Kajabukama requested password recovery 
+2017-06-08 16:50:11 | login : johari@gmail.com logged in successfully 
+2017-06-08 19:07:52 | logout : johari@gmail.com logged out successfully 
+2017-06-08 19:16:38 | Password Recovery : Johari H. Kajabukama requested password recovery 
+2017-06-08 19:18:34 | Password Recovery : Johari H. Kajabukama requested password recovery 
+2017-06-08 19:22:48 | Password Recovery : Johari H. Kajabukama requested password recovery 
+2017-06-08 19:33:23 | login : johari@gmail.com logged in successfully 
+2017-06-08 19:35:58 | logout : johari@gmail.com logged out successfully 
+2017-06-08 19:36:22 | login : njelekela@gmail.com logged in successfully 
+2017-06-08 19:39:41 | Officer Account : Jones K. Njelekela created an officer account width id : 486150 
+2017-06-08 19:40:06 | Suspend Account : Jones K. Njelekela suspended officer account with id : 486150 
+2017-06-08 19:40:11 | Activate Account : Jones K. Njelekela activated officer account with id : 486150 
+2017-06-08 19:40:13 | Activate Account : Jones K. Njelekela activated officer account with id : 486150 
+2017-06-08 19:40:32 | Activate Account : Jones K. Njelekela activated officer account with id : 486150 
+2017-06-09 06:02:49 | logout : njelekela@gmail.com logged out successfully 
+2017-06-09 06:04:39 | Citizen Signup : Johari H. Kajabukama registered successfully 
+2017-06-09 06:04:39 | Account Signup : Johari H. Kajabukama created an account successfully 
+2017-06-09 06:06:19 | login : johari@gmail.com logged in successfully 
+2017-06-09 06:07:28 | Show Forum : johari@gmail.com has deleted forum with id : 1 
+2017-06-09 06:08:22 | Password Change : Johari H. Kajabukama changed account password 
+2017-06-09 06:08:36 | logout : johari@gmail.com logged out successfully 
+2017-06-09 06:08:58 | login : njelekela@gmail.com logged in successfully 
+2017-06-09 06:10:35 | Officer Account : Jones K. Njelekela created an officer account width id : 414103 
+2017-06-09 06:11:26 | logout : njelekela@gmail.com logged out successfully 
+2017-06-09 06:12:06 | login : amina@gmail.com logged in successfully 
+2017-06-09 08:43:28 | logout : amina@gmail.com logged out successfully 
+2017-06-09 08:44:00 | Password Recovery : Johari H. Kajabukama requested password recovery 
+2017-06-09 08:45:37 | Password Recovery : Amina C. Mpakanjia requested password recovery 
+2017-06-09 08:58:59 | login : njelekela@gmail.com logged in successfully 
+2017-06-09 09:00:25 | Officer Account : Jones K. Njelekela created an officer account width id : 858061 
+2017-06-09 09:08:28 | Officer Account : Jones K. Njelekela created an officer account width id : 648309 
+2017-06-09 09:09:46 | logout : njelekela@gmail.com logged out successfully 
+2017-06-09 09:10:25 | login : makweta@gmail.com logged in successfully 
+2017-06-09 09:27:49 | login : njelekela@gmail.com logged in successfully 
+2017-06-09 09:36:51 | logout : makweta@gmail.com logged out successfully 
+2017-06-09 09:38:51 | Citizen Signup : Johari H. Kajabukama registered successfully 
+2017-06-09 09:38:51 | Account Signup : Johari H. Kajabukama created an account successfully 
+2017-06-09 09:42:09 | login : johari@gmail.com logged in successfully 
+2017-06-09 09:43:37 | Show Forum : johari@gmail.com has deleted forum with id : 1 
+2017-06-09 09:50:39 | logout : johari@gmail.com logged out successfully 
+2017-06-09 09:50:59 | Password Recovery : Jones K. Njelekela requested password recovery 
+2017-06-09 09:51:39 | logout : njelekela@gmail.com logged out successfully 
+2017-06-09 09:52:19 | login : njelekela@gmail.com logged in successfully 
+2017-06-09 09:52:56 | Activate Account : Jones K. Njelekela activated officer account with id : 648309 
+2017-06-09 09:52:59 | Activate Account : Jones K. Njelekela activated officer account with id : 648309 
+2017-06-09 09:53:50 | Activate Account : Jones K. Njelekela activated officer account with id : 648309 
+2017-06-09 09:53:53 | Activate Account : Jones K. Njelekela activated officer account with id : 648309 
+2017-06-09 10:12:24 | Password Recovery : Jackson J. Makweta requested password recovery 
+2017-06-09 10:14:06 | Password Recovery : Jackson J. Makweta requested password recovery 
+2017-06-09 10:14:36 | Password Recovery : Jackson J. Makweta requested password recovery 
+2017-06-09 10:15:53 | Password Recovery : Jackson J. Makweta requested password recovery 
+2017-06-09 10:18:20 | Password Recovery : Johari H. Kajabukama requested password recovery 
+2017-06-09 10:20:06 | login : makweta@gmail.com logged in successfully 
+2017-06-09 11:06:51 | Activate Account : Jones K. Njelekela activated officer account with id : 648309 
+2017-06-09 11:06:53 | Activate Account : Jones K. Njelekela activated officer account with id : 648309 
+2017-06-09 11:07:10 | Activate Account : Jones K. Njelekela activated officer account with id : 648309 
+2017-06-09 11:22:16 | Activate Account : Jones K. Njelekela activated officer account with id : 560560 
+2017-06-09 11:22:19 | Activate Account : Jones K. Njelekela activated officer account with id : 648309 
+2017-06-09 12:25:41 | logout :  logged out successfully 
+2017-06-09 12:29:48 | Officer Account : Jones K. Njelekela created an officer account width id : 369244 
+2017-06-09 12:31:57 | Officer Account : Jones K. Njelekela created an officer account width id : 836701 
+2017-06-09 12:35:39 | Password Recovery : David M. Ntaalam requested password recovery 
+2017-06-09 12:36:31 | Password Recovery : David M. Ntaalam requested password recovery 
+2017-06-09 12:37:22 | login : david@gmail.com logged in successfully 
+2017-06-09 13:13:56 | login : david@gmail.com logged in successfully 
+2017-06-09 13:50:51 | logout : njelekela@gmail.com logged out successfully 
+2017-06-10 04:35:59 | login : david@gmail.com logged in successfully 
+2017-06-10 04:38:44 | logout : david@gmail.com logged out successfully 
+2017-06-10 04:41:11 | login : admin@gmail.com logged in successfully 
+2017-06-10 04:43:36 | login : david@gmail.com logged in successfully 
+2017-06-10 04:44:08 | logout : david@gmail.com logged out successfully 
+2017-06-10 04:45:41 | Officer Account : Admin S. Admin created an officer account width id : 190217 
+2017-06-10 04:48:17 | login : kabendera@gmail.com logged in successfully 
+2017-06-10 06:13:08 | logout : kabendera@gmail.com logged out successfully 
+2017-06-10 06:16:43 | login : admin@gmail.com logged in successfully 
+2017-06-10 06:34:45 | login : admin@gmail.com logged in successfully 
+2017-06-10 06:36:32 | logout : admin@gmail.com logged out successfully 
+2017-06-10 06:41:04 | Citizen Signup : Hamisi O. Mnyangala registered successfully 
+2017-06-10 06:41:04 | Account Signup : Hamisi O. Mnyangala created an account successfully 
+2017-06-10 06:43:27 | login : mnyangala@gmail.com logged in successfully 
+2017-06-10 06:48:16 | Delete : mnyangala@gmail.com has deleted message with id : 1 
+2017-06-10 07:31:40 | Delete : mnyangala@gmail.com has deleted message with id : 39193 
+2017-06-10 07:31:43 | Delete : mnyangala@gmail.com has deleted message with id : 25146 
+2017-06-10 07:37:09 | Delete : admin@gmail.com has deleted message with id : 80171 
+2017-06-10 07:39:04 | logout : admin@gmail.com logged out successfully 
+2017-06-10 07:39:24 | login : david@gmail.com logged in successfully 
+2017-06-10 07:49:08 | logout : david@gmail.com logged out successfully 
+2017-06-10 07:49:22 | login : admin@gmail.com logged in successfully 
+2017-06-10 08:04:41 | Delete Account : Admin S. Admin deleted officer account with id : 190217 
+2017-06-10 08:06:09 | Hide Forum : admin@gmail.com has disabled forum with id : 1 
+2017-06-10 08:06:30 | Show Forum : admin@gmail.com has enabled forum with id : 1 
+2017-06-10 08:13:37 | Hide Forum : admin@gmail.com has disabled forum with id : 1 
+2017-06-10 08:13:53 | Show Forum : admin@gmail.com has enabled forum with id : 1 
+2017-06-10 08:14:39 | Hide Forum : admin@gmail.com has disabled forum with id : 1 
+2017-06-10 08:14:45 | Show Forum : admin@gmail.com has enabled forum with id : 1 
+2017-06-10 08:18:04 | Hide Forum : admin@gmail.com has disabled forum with id : 1 
+2017-06-10 08:18:28 | Show Forum : admin@gmail.com has enabled forum with id : 1 
+2017-06-10 08:18:45 | Hide Forum : admin@gmail.com has disabled forum with id : 1 
+2017-06-10 08:21:02 | Show Forum : admin@gmail.com has enabled forum with id : 1 
+2017-06-10 08:21:09 | Hide Forum : admin@gmail.com has disabled forum with id : 1 
+2017-06-10 08:21:37 | Show Forum : admin@gmail.com has enabled forum with id : 1 
+2017-06-10 08:22:16 | Hide Forum : admin@gmail.com has disabled forum with id : 1 
+2017-06-10 08:22:30 | Show Forum : admin@gmail.com has enabled forum with id : 1 
+2017-06-10 08:25:33 | Password Change : Admin S. Admin changed account password 
+2017-06-10 08:25:57 | logout : admin@gmail.com logged out successfully 
+2017-06-10 08:44:38 | Password Recovery : Hamisi O. Mnyangala requested password recovery 
+2017-06-10 08:45:44 | login : mnyangala@gmail.com logged in successfully 
+2017-06-10 08:46:54 | Like Comment : mnyangala@gmail.com likes comment with id : 346689 
+2017-06-10 08:55:09 | Like Comment : mnyangala@gmail.com likes comment with id : 320086 
+2017-06-10 09:00:28 | Delete : mnyangala@gmail.com has deleted forum with id : 2 
+2017-06-10 09:01:48 | logout : mnyangala@gmail.com logged out successfully 

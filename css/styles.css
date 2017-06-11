@@ -1,0 +1,234 @@
+body {
+    padding-top: 50px;
+    background: #006064 url(../images/flag.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    font-family: 'Roboto';
+    font-size: 14px;
+}
+
+.p-top-body {
+    padding-top: 30px;
+}
+.m-top{
+    margin-top: 10px !important;
+}
+.time-ago {
+    color: rgba(0, 0, 0, 0.45);
+    font-size: 12px;
+}
+.text {
+  position: relative;
+  font-size: 14px;
+  color: black;
+  width: 100%; /* Could be anything you like. */
+}
+
+.text-concat {
+  position: relative;
+  display: inline-block;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 2.3em; /* (Number of lines you want visible) * (line-height) */
+  line-height: 1.2em;
+  text-align:justify;
+}
+
+.text.ellipsis::after {
+  content: "...";
+  position: absolute;
+  right: -12px; 
+  bottom: 4px;
+}
+.ui .menu {
+    border: 1px solid rgba(34, 36, 38, 0);
+}
+
+
+/*---------------------
+   Secondary Pointing
+-----------------------*/
+
+.ui.secondary.pointing.menu {
+    margin-left: 0em;
+    margin-right: 0em;
+    border-bottom: 2px solid rgba(34, 36, 38, 0.15);
+}
+
+.ui.secondary.pointing.menu .item {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-radius: 0em;
+    -webkit-align-self: flex-end;
+    -ms-flex-item-align: end;
+    align-self: flex-end;
+    margin: 0em 0em -2px;
+    padding: 0.85714286em 1.14285714em;
+    border-bottom-width: 2px;
+    -webkit-transition: color 0.1s ease;
+    transition: color 0.1s ease;
+}
+
+
+/* Item Types */
+
+.ui.secondary.pointing.menu .header.item {
+    color: rgba(0, 0, 0, 0.85) !important;
+}
+
+.ui.secondary.pointing.menu .text.item {
+    box-shadow: none !important;
+}
+
+.ui.secondary.pointing.menu .item:after {
+    display: none;
+}
+
+
+/* Hover */
+
+.ui.secondary.pointing.menu .dropdown.item:hover,
+.ui.secondary.pointing.menu .link.item:hover,
+.ui.secondary.pointing.menu a.item:hover {
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.87);
+}
+
+
+/* Pressed */
+
+.ui.secondary.pointing.menu .dropdown.item:active,
+.ui.secondary.pointing.menu .link.item:active,
+.ui.secondary.pointing.menu a.item:active {
+    background-color: transparent;
+    border-color: rgba(34, 36, 38, 0.15);
+}
+
+
+/* Active */
+
+.ui.secondary.pointing.menu .active.item {
+    background-color: transparent;
+    box-shadow: none;
+    border-color: #00B5AD;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.95);
+}
+
+
+/* Active Hover */
+
+.ui.secondary.pointing.menu .active.item:hover {
+    border-color: #1B1C1D;
+    color: rgba(0, 0, 0, 0.95);
+}
+
+.ui.inverted.pointing.menu .active.item:after {
+    background: #fff !important;
+    margin: 0em !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.ui.segment {
+    position: relative;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px 0 rgba(34, 36, 38, 0.15);
+    margin: 1rem 0em;
+    padding: 1em 1em;
+    border-radius: 0.28571429rem;
+    border: 1px solid rgba(34, 36, 38, 0);
+}
+
+.action-btn {
+    padding-top: 0!important;
+    padding-right: 0!important;
+}
+
+.zmdi-icon {
+    margin-top: -4px;
+    float: right;
+    font-size: 1.5em;
+    color: #00BFA5;
+}
+
+.ellip {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    width: 370px;
+}
+
+
+
+.adjust-right-top-padding {
+    padding-right: 0px!important;
+    padding-top: 0px!important;
+}
+
+.m-b-10 {
+    margin-bottom: 1.5em !important;
+}
+
+.ui.comments {
+    max-height: 380px;
+    min-height: 100%;
+    margin: 1.5em 0em;
+    max-width: 100%;
+
+ }
+ 
+ .ui.comments:first-child {
+     margin-top: 0em;
+ }
+ 
+ .ui.comments:last-child {
+     margin-bottom: 0em;
+ }
+ /*--------------
+     Comment
+---------------*/
+ 
+ .ui.comments .comment {
+     position: relative;
+     background: none;
+     margin: 1em 0em 1em;
+     padding: 0.5em 0.5em 0em;
+     border: none;
+     border-top: none;
+     line-height: 1.2;
+ }
+ 
+ .ui.comments .comment:first-child {
+     margin-top: 0em;
+     padding-top: 0em;
+ }
+
+ .ui.comments .comment:last-child {
+     margin-top: 0em;
+     padding-top: 0em;
+ }
+ /*--------------------
+    Nested Comments
+---------------------*/
+ 
+ .ui.comments .comment .comments {
+     margin: 0em 0em 0.5em 0.5em;
+     padding: 1em 0em 1em 1em;
+ }
+ 
+ .ui.comments .comment .comments:before {
+     position: absolute;
+     top: 0px;
+     left: 0px;
+ }
+ 
+ .ui.comments .comment .comments .comment {
+     border: none;
+     border-top: none;
+     background: none;
+ }
+
+ 
